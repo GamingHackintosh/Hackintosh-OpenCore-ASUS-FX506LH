@@ -1,0 +1,1 @@
+# Hackintosh-OpenCore-ASUS-FX506LH
