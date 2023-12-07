@@ -4,7 +4,7 @@ OpenCore EFI for ASUS TUF Gaming F15 FX506LH
 
 macOS Ventura
 
-Specification | Status
+Specification | Working
 ------------- | -------------
 CPU  | i5-10300H ✅
 GPU  | GTX 1650 ❌, Intel UHD Graphics 630 ✅
