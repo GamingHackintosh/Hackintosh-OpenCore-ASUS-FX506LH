@@ -14,3 +14,4 @@ Storage  | Kingston NV1 - M2 ✅
 Ethernet  | RTL8168/8111 ✅
 Touchpad  |  ✅
 Battery & Status Battery | ✅
+# Test
