@@ -1,6 +1,8 @@
-<h1 # Hackintosh-OpenCore-ASUS-FX506LH <p align="center">
+<h1 # ASUS-FX506LH <p align="center">
 
-<p align="center"> OpenCore EFI for ASUS TUF Gaming F15 FX506LH
+<p align="center">OpenCore EFI for ASUS TUF Gaming F15 FX506LH.</p>
+
+### <p align="center" style="font-size: smaller;">EFI config for ASUS TUF Gaming F15 FX506LH</p>
 
 <h5 ### macOS Ventura <p align="center">
 
