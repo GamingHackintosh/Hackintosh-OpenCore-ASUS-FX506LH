@@ -2,7 +2,7 @@
 
 <p align="center"> OpenCore EFI for ASUS TUF Gaming F15 FX506LH
 
-### macOS Ventura
+### macOS Ventura <p align="center">
 
 Specification | Working
 ------------- | -------------
