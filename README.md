@@ -1,6 +1,6 @@
 # Hackintosh-OpenCore-ASUS-FX506LH
 
-OpenCore EFI for ASUS TUF Gaming F15 FX506LH
+<p align="center"> OpenCore EFI for ASUS TUF Gaming F15 FX506LH
 
 ### macOS Ventura
 
