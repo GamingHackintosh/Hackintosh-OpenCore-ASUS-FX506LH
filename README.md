@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="img/03_Portability_02.jpg" width="700px">
-</p>
-
-
 <h1 <p align="center">OpenCore EFI for ASUS TUF Gaming F15 FX506LH.</p>
 
 ### <p align="center" style="font-size: smaller;">EFI config for ASUS TUF Gaming F15 FX506LH</p>
 
 <h5 ### macOS Ventura <p align="center">
+
+
 
 Specification | Working
 ------------- | -------------
@@ -19,3 +16,7 @@ Storage  | Kingston NV1 - M2 ✅
 Ethernet  | RTL8168/8111 ✅
 Touchpad  |  ✅
 Battery & Status Battery | ✅
+
+<p align="center">
+  <img src="img/03_Portability_02.jpg" width="700px">
+</p>
