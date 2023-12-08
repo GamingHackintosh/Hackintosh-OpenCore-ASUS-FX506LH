@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/note.png" width="200px">
+  <img src="img/03_Portability_02.jpg" width="700px">
 </p>
 
 
