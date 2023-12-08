@@ -1,4 +1,4 @@
-<p align="center"> # Hackintosh-OpenCore-ASUS-FX506LH
+# Hackintosh-OpenCore-ASUS-FX506LH <p align="center"> 
 
 <p align="center"> OpenCore EFI for ASUS TUF Gaming F15 FX506LH
 
