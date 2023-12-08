@@ -1,6 +1,6 @@
 <img width="300px" src=img/note.png>
 
-<h1 # ASUS-FX506LH <p align="center">
+<h1 # ASUS-FX506LH <p align="center" align="center" alt="Notebook">
 
 <p align="center">OpenCore EFI for ASUS TUF Gaming F15 FX506LH.</p>
 
